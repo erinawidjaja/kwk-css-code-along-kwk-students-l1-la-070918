@@ -1,1 +1,17 @@
 /* add CSS class and element and selectors here */
+body {
+      background-color: #C8E3FF;
+      font-size: 100%;
+    }
+    h1 { 
+      color: green;
+    }
+    .info-section {
+      font-size: 200%;
+      font-family: 'Montserrat', sans-serif;
+       border: 1px dotted gray;
+    }
+    
+    #title-section {
+      color: purple;
+    }
